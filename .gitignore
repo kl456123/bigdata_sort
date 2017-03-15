@@ -1,0 +1,9 @@
+*.txt
+
+obj/*
+
+test/*
+
+_test/*
+
+bigdata_sort
